@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssood12
 - 👀 I’m interested in web development
-- 🌱 I’m currently studying for AWS cloud practitioner exam
+- 🌱 I’m currently explaoring Next.js
 - 💞️ I’m looking for opportunities as junior web developer
 - 📫 Reach me at shivangi.sood0012@gmail.com
 
